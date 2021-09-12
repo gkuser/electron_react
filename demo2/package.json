@@ -1,0 +1,12 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "npm install --save electron-windows-notifications\r 据说是windows得高级通知",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}

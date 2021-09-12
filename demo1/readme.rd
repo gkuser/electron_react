@@ -1,0 +1,2 @@
+windows系统下得消息通知notification，只有单击一种动作，并且样式不可控，
+macos系统下得消息通知notification，有两种动作，样式不可控
